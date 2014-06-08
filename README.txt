@@ -1,3 +1,3 @@
 holamundo
-How are you¿
+How are you
 para ver
