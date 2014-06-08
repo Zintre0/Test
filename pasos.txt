@@ -1,4 +1,4 @@
 git init
 git remote add origin https://github.com/Zintre0/nombrerep.git
 git pull https://github.com/Zintre0/nombrerep.git
-git push -u origin master
+git push -u origin master 
